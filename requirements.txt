@@ -1,0 +1,5 @@
+pandas
+numpy
+gymnasium          # 可选；缺失时 env 退化为最小接口
+stable-baselines3  # 可选；缺失时回退到内置 tabular Q-learning
+panda-data==0.0.9

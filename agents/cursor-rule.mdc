@@ -1,0 +1,8 @@
+---
+description: Load the intraday RL timing research instructions for this repository.
+globs: ["**/*.py", "**/*.csv", "**/*.md"]
+alwaysApply: false
+---
+
+When working on this agent, read `SKILL.md` and then `AGENTS.md`. Keep experiments offline,
+use chronological walk-forward evaluation, and preserve the no-live-orders boundary.

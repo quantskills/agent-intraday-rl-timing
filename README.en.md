@@ -33,11 +33,11 @@ python scripts/test_intraday.py
 This repository provides an intraday RL research environment and code skeleton only. It does
 not connect to any trading account, places no orders, verifies no performance claims, and
 does not constitute investment advice. RL on minute data overfits easily — always read OOS
-vs baselines. Community Project — not officially validated or endorsed until maintainer review.
+vs baselines. Community Project; validate outputs against the cited data and local review requirements.
 
 ## 📜 License
 
-GPL-3.0. See [LICENSE](LICENSE).
+GPL-3.0-only. See [LICENSE](LICENSE).
 
 ## 🐼 PandaAI / QUANTSKILLS Community
 

@@ -8,7 +8,7 @@ quantSkills:
   repository_url: https://github.com/quantskills/agent-intraday-rl-timing
   project_type: agent
   collection: intraday-research
-  license: GPL-3.0
+  license: GPL-3.0-only
   category: research-agent
   tags: [reinforcement-learning, intraday, minute-bars, gymnasium, walk-forward, research-only]
   platforms: [claude-code, codex, openclaw]
@@ -78,7 +78,7 @@ Produce:
   not modeled. Capacity is unbounded by assumption.
 - Minute data has gaps, auctions, and limit halts; the env must handle non-tradable bars.
 - **No live trading.** This agent is a research lab and does not constitute investment advice.
-- Community Project — not officially validated or endorsed until maintainer review.
+- Community Project; validate outputs against the cited data and local review requirements.
 
 ## ✅ Quality Bar
 

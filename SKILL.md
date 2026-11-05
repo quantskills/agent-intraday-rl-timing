@@ -17,3 +17,7 @@ walk-forward workflow, output contract, and research-only safety limits.
 
 The agent does not connect to brokers or place live orders. Keep in-sample and
 out-of-sample results clearly labeled, cite data dates, and disclose missing inputs.
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.
